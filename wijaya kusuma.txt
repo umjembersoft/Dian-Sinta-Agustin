@@ -1,0 +1,46 @@
+http://www.uwks.ac.id/pengumuman.aspx
+
+GET /pengumuman.aspx HTTP/1.1
+Host: www.uwks.ac.id (ket : alamat website)
+
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20100101 Firefox/12.0
+(User Agent adalah aplikasi yang mengandung berbagai macam string pada pihak client untuk berkomunikasi dengn pihak web server.)
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+(language atau bahasa program adalah suatu bahasa ataupun suatu tatacara yang dapat digunakan oleh manusia (programmer) untuk berkomunikasi secara langsung dengan komputer.)
+
+Accept-Encoding: gzip, deflate
+
+Connection: keep-alive
+Referer: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&sqi=2&ved=0CDwQjBAwBA&url=http%3A%2F%2Fwww.uwks.ac.id%2Fpengumuman.aspx&ei=-TRJUv7xI4HUrQfbg4EI&usg=AFQjCNHK2Zae_tqkRP8xZe-cSYUvhrnIyw&sig2=pVbtRdmPnXC16M3TJ2i51A&bvm=bv.53217764,d.bmk
+(alamat website / URL)
+
+Cookie: ASP.NET_SessionId=qlajv0cg025lawxeozq0xx0k
+(suatu isyarat untuk melanjutkan atau meneruskan suatu kegiatan.)
+
+Cache-Control: max-age=0
+(control memory)
+
+HTTP/1.1 200 OK
+(respon) 
+
+Date: Mon, 30 Sep 2013 08:25:45 GMT
+(tanggal menerima respon)
+
+Server: Microsoft-IIS/6.0 
+(servernya berupa microsoft-IIS/6.0)
+
+X-Powered-By: ASP.NET
+
+X-AspNet-Version: 4.0.30319
+
+Pragma: no-cache, no-cache
+Cache-Control: no-cache
+
+Expires: -1
+Content-Type: text/html; charset=utf-8
+(tipe konten dengan fungsi charset 8bit)
+
+Content-Length: 28702
+(ukuran panjang content)
